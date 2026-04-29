@@ -10,10 +10,11 @@ What are 6 analytical questions you can ask about this dataset?
 
 3. What age groups are consider the  high spend customers?
 
-*** 4. Which age groups use the most promo codes?**
+*** 4. Which age groups use the most promo codes?***
+
 5. Which state spends the most most money?
 
-***6. What is the average purchase amount by season? ****
+***6. What is the average purchase amount by season? ***
 
 7. What is the most popular item that is purchased?
 
@@ -23,4 +24,4 @@ What are 6 analytical questions you can ask about this dataset?
 
 Who purchases more items? Men or Women?
 
-10. Which color has the highest purchses/lowest purchases?
+10. Which color has the highest purchases/lowest purchases?
